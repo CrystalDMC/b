@@ -35,3 +35,5 @@ After a moment, a nice system installer will be shown. You will be prompted to s
 
 [Wiki](https://github.com/IgorTimofeev/MineOS/wiki)
 "# b" 
+"# b" 
+"# b" 
